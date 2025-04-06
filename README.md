@@ -1,4 +1,3 @@
-```markdown
 # gps-logger-esp32
 
 ## Short Description
